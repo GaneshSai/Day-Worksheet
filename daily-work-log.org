@@ -1,0 +1,18 @@
+#+title: Daily work log for D. Ganesh Sai	
+
+* Month of June
+** [2016-06-03 Fri]
+   + I was told to learn the basic commands of Linux.
+   + I got a grip of the commands used in Linux.
+** [2016-06-06 Mon]
+   + I was told to learn about git and emacs.
+   + I could learn that emacs is a high level editor in the basic commands of emacs.
+     From git I could learn how to create repository, cloning, pushing file, adding of files,chcking the status of the files.  
+
+** [2016-05-07 Tue]
+   
+
+** Weekly  Summary
+   + What are the insights gained?
+   + What is my footprint in the realization of the project?
+* Month of July
