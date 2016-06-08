@@ -10,6 +10,8 @@
      From git I could learn how to create repository, cloning, pushing file, adding of files,chcking the status of the files.  
 
 ** [2016-05-07 Tue]
+  
+   + I learnt about openvz, learnt to create containers in openvz, delete containers, ip configurations, loging into remote user.
    
 
 ** Weekly  Summary
