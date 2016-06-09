@@ -13,6 +13,10 @@
   
    + I learnt about openvz, learnt to create containers in openvz, delete containers, ip configurations, loging into remote user.
    
+** [2016-05-08 Wed]
+
+   + We got to know about the AWS network architecture, from where the request goes to where, about the DNS server, public ip, private ip.
+   
 
 ** Weekly  Summary
    + What are the insights gained?
