@@ -17,6 +17,15 @@
 
    + We got to know about the AWS network architecture, from where the request goes to where, about the DNS server, public ip, private ip.
    
+** [2016-05-09 Thu]
+
+   + Got to know what is Lambda, how it works.
+   
+** [2016-05-10 Fri]
+
+   + Learnt how Lambda works.
+
+   
 
 ** Weekly  Summary
    + What are the insights gained?
